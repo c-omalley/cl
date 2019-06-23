@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 #----------------------------------------------------------------------
 # File: cl.py
-# Date: 05/24/2019
-#----------------------------------------------------------------------
+#
 # Process script flags, options, and arguments.
 # See https://en.wikipedia.org/wiki/Command-line_interface#Arguments
 #
