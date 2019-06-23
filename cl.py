@@ -62,6 +62,7 @@ def _glob_expand(arguments):
                 glob_expanded_arguments += [arg]
         return glob_expanded_arguments
     else:
+        # Assume glob expansion handled by a shell
         return arguments
 
 # Get a copy of the command line. This holds the remaining command line
